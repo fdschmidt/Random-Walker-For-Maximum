@@ -1,4 +1,5 @@
 # Random Walker For Maximum
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fdschmidt/RandomWalkerForMaximum/master)
 
 A Jupyter Notebook that determines the maximum of a function (1D or 2D) by using a basic random walker.
 
